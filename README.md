@@ -11,7 +11,7 @@ The required Python libraries are installed and imported. Pandas and NumPy are u
 The current working directory is checked to make sure Python is using the correct folder for the project files and dataset.
 # 3. Loading Data from CSV File
 The Netflix dataset is loaded using Pandas. Basic information such as the first five rows using df.head(), dataset shape, column names and data types is checked to understand the dataset
-# 4. Explainin the data
+# 4. Explaining the data
 The dataset is analysed to find statistical information, missing values, duplicate records, content type distribution and the most common genres.
 # 5. Data preprocessing
 The data is cleaned before using it for analysis and machine learning. Duplicate records are removed, important missing values are handled, text values are cleaned and release year and duration are converted into useful numerical values.
