@@ -12,6 +12,7 @@
 
 # Video link 
 https://drive.google.com/file/d/1melYS94lkLpGG8LC6oobDpV6RxrR1_2h/view?usp=drivesdk
+(Clideo.com is just used to record and compile all recordings together so ignore the watermark.)
 
 # Presentation pdf Link 
 https://acrobat.adobe.com/id/urn:aaid:sc:AP:4792cbc4-dde9-4b72-9ac9-6f3603b8458d
