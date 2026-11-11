@@ -12,7 +12,96 @@
 
 # Video link 
 https://drive.google.com/file/d/1melYS94lkLpGG8LC6oobDpV6RxrR1_2h/view?usp=drivesdk
+<h2>Dataset Description</h2>
 
+<p>
+  The project uses the <b>Netflix Movies and TV Shows Dataset
+  (<code>netflix_titles.csv</code>)</b>, which contains information
+  about movies and television shows available on Netflix.
+</p>
+
+<h3>Dataset Statistics</h3>
+
+<ul>
+  <li><b>Total Rows:</b> 6,234</li>
+  <li><b>Total Columns:</b> 12</li>
+  <li><b>Dataset Source:</b> Kaggle</li>
+  <li>
+    <b>Dataset Link:</b>
+    <a href="https://www.kaggle.com/code/abhichoudhury/a-simple-movie-recommender?select=netflix_titles.csv">
+      Netflix Titles Dataset - Kaggle
+    </a>
+  </li>
+</ul>
+
+<h3>Attributes Description</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Attribute</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>show_id</code></td>
+      <td>Unique identification number assigned to each title.</td>
+    </tr>
+    <tr>
+      <td><code>type</code></td>
+      <td>Specifies whether the content is a Movie or TV Show.</td>
+    </tr>
+    <tr>
+      <td><code>title</code></td>
+      <td>Name of the movie or television show.</td>
+    </tr>
+    <tr>
+      <td><code>director</code></td>
+      <td>Name of the director responsible for the title.</td>
+    </tr>
+    <tr>
+      <td><code>cast</code></td>
+      <td>Names of actors and actresses featured in the title.</td>
+    </tr>
+    <tr>
+      <td><code>country</code></td>
+      <td>Country where the movie or show was produced.</td>
+    </tr>
+    <tr>
+      <td><code>date_added</code></td>
+      <td>Date when the title was added to Netflix.</td>
+    </tr>
+    <tr>
+      <td><code>release_year</code></td>
+      <td>Year in which the movie or show was released.</td>
+    </tr>
+    <tr>
+      <td><code>rating</code></td>
+      <td>Content classification based on audience suitability.</td>
+    </tr>
+    <tr>
+      <td><code>duration</code></td>
+      <td>Running time of a movie or number of seasons of a TV show.</td>
+    </tr>
+    <tr>
+      <td><code>listed_in</code></td>
+      <td>Genres or categories associated with the title.</td>
+    </tr>
+    <tr>
+      <td><code>description</code></td>
+      <td>Brief summary of the movie or television show.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Dataset Usage</h3>
+
+<p>
+  The dataset is used for data analysis, preprocessing, feature selection,
+  and identifying similarities between movies based on their genres
+  and other relevant attributes to generate movie recommendations.
+</p>
 # 1. Installing the required libraries
 The required Python libraries are installed and imported. Pandas and NumPy are used for handling data and calculations, while Matplotlib and Seaborn are used for graphs. Scikit-learn is used for machine learning and model evaluation.
 # 2. importing the libraries
