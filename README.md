@@ -10,7 +10,7 @@ Aryan Rahul Bachchhav - 2026MCB1517 - Video Lead
 Abhinav Mishra - 2026DAB1289 - PPT Lead
 
 # Video link 
-https://drive.google.com/file/d/1uhAmFPOUPxT7Hop0sQIfdsgHSjYU8uIv/view?usp=drivesdk
+https://drive.google.com/file/d/1melYS94lkLpGG8LC6oobDpV6RxrR1_2h/view?usp=drivesdk
 
 # 1. Installing the required libraries
 The required Python libraries are installed and imported. Pandas and NumPy are used for handling data and calculations, while Matplotlib and Seaborn are used for graphs. Scikit-learn is used for machine learning and model evaluation.
