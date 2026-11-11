@@ -1,13 +1,14 @@
 # AI101-Mini-project
 ## Movie recommender 
 ## Group-44
-Aadarsh Kumar - 2026EEB1309 - Execution Lead 
+## Team Members
 
-Ankush Chaudhary - 2026AIB1017 - Documentation Lead
-
-Aryan Rahul Bachchhav - 2026MCB1517 - Video Lead 
-
-Abhinav Mishra - 2026DAB1289 - PPT Lead
+| S. No. | Name | Entry Number | Role |
+|:------:|---|:---:|---|
+| 1 | Aadarsh Kumar | 2026EEB1309 | Execution Lead |
+| 2 | Ankush Chaudhary | 2026AIB1017 | Documentation Lead |
+| 3 | Aryan Rahul Bachchhav | 2026MCB1517 | Video Lead |
+| 4 | Abhinav Mishra | 2026DAB1289 | PPT Lead |
 
 # Video link 
 https://drive.google.com/file/d/1melYS94lkLpGG8LC6oobDpV6RxrR1_2h/view?usp=drivesdk
