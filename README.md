@@ -102,6 +102,7 @@ https://drive.google.com/file/d/1melYS94lkLpGG8LC6oobDpV6RxrR1_2h/view?usp=drive
   and identifying similarities between movies based on their genres
   and other relevant attributes to generate movie recommendations.
 </p>
+
 # 1. Installing the required libraries
 The required Python libraries are installed and imported. Pandas and NumPy are used for handling data and calculations, while Matplotlib and Seaborn are used for graphs. Scikit-learn is used for machine learning and model evaluation.
 # 2. importing the libraries
